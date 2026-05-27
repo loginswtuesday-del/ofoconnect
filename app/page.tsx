@@ -64,45 +64,47 @@ export default function OfoConnectWebsite() {
       <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
           <Image
-            src="/images/luxury-couple-service.png"
-            alt="Premium travel service for a couple"
+            src="/images/hero-partnership-puzzle.png"
+            alt="Two partners connecting puzzle pieces in a premium business setting"
             fill
-            className="object-cover scale-105"
+            className="object-cover object-[72%_center] lg:object-center scale-105"
             priority
           />
           <div className="absolute inset-0 bg-gradient-to-r from-[#151C27]/90 via-[#151C27]/72 to-[#151C27]/45" />
         </div>
-        <div className="relative z-10 text-center text-[var(--luxury-on-dark)] max-w-6xl mx-auto px-4 pt-20">
-          <div className="mb-6">
-            <span className="inline-block px-4 py-2 bg-[#B08A4A]/15 backdrop-blur-sm border border-[#D8C39D]/45 rounded-full text-[var(--luxury-champagne)] text-sm font-medium uppercase tracking-wide">
-              {t("heroEyebrow")}
-            </span>
-          </div>
-          <h1 className="text-4xl md:text-6xl lg:text-7xl font-light mb-8 leading-tight tracking-tight">
-            {t("heroTagline")}
-          </h1>
-          <p className="text-xl md:text-2xl mb-12 text-[#F7F1E7]/90 max-w-4xl mx-auto font-light leading-relaxed">
-            {t("heroSubtitle")}
-          </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button
-              asChild
-              size="lg"
-              className="bg-[var(--luxury-gold)] hover:bg-[#94723D] text-[var(--luxury-midnight)] px-8 py-4 text-base font-medium shadow-xl hover:shadow-2xl transition-all duration-300 rounded-lg"
-            >
-              <Link href="#contact">
-                {t("getInTouch")}
-                <ArrowRight className="ml-2 h-5 w-5" />
-              </Link>
-            </Button>
-            <Button
-              asChild
-              variant="outline"
-              size="lg"
-              className="border-[#D8C39D]/65 text-[var(--luxury-on-dark)] hover:bg-[#D8C39D]/10 hover:text-[var(--luxury-on-dark)] px-8 py-4 text-base font-medium backdrop-blur-sm rounded-lg bg-transparent"
-            >
-              <Link href="#about">{t("heroSecondaryCta")}</Link>
-            </Button>
+        <div className="relative z-10 text-center lg:text-left text-[var(--luxury-on-dark)] w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20">
+          <div className="max-w-3xl">
+            <div className="mb-6">
+              <span className="inline-block px-4 py-2 bg-[#B08A4A]/15 backdrop-blur-sm border border-[#D8C39D]/45 rounded-full text-[var(--luxury-champagne)] text-sm font-medium uppercase tracking-wide">
+                {t("heroEyebrow")}
+              </span>
+            </div>
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-light mb-8 leading-tight tracking-tight">
+              {t("heroTagline")}
+            </h1>
+            <p className="text-xl md:text-2xl mb-12 text-[#F7F1E7]/90 max-w-3xl mx-auto lg:mx-0 font-light leading-relaxed">
+              {t("heroSubtitle")}
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
+              <Button
+                asChild
+                size="lg"
+                className="bg-[var(--luxury-gold)] hover:bg-[#94723D] text-[var(--luxury-midnight)] px-8 py-4 text-base font-medium shadow-xl hover:shadow-2xl transition-all duration-300 rounded-lg"
+              >
+                <Link href="#contact">
+                  {t("getInTouch")}
+                  <ArrowRight className="ml-2 h-5 w-5" />
+                </Link>
+              </Button>
+              <Button
+                asChild
+                variant="outline"
+                size="lg"
+                className="border-[#D8C39D]/65 text-[var(--luxury-on-dark)] hover:bg-[#D8C39D]/10 hover:text-[var(--luxury-on-dark)] px-8 py-4 text-base font-medium backdrop-blur-sm rounded-lg bg-transparent"
+              >
+                <Link href="#about">{t("heroSecondaryCta")}</Link>
+              </Button>
+            </div>
           </div>
         </div>
       </section>
