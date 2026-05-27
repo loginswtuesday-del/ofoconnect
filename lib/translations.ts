@@ -11,6 +11,8 @@ export const translations = {
     heroSubtitle:
       "Leveraging group synergy to deliver comprehensive, world-class travel distribution and destination management.",
     getInTouch: "Partner With Us",
+    heroEyebrow: "General Sales Agent & Outbound Sales",
+    heroSecondaryCta: "Connect with Our GSA Team",
 
     // About Section
     aboutTitle: "Your Trusted Travel Partner in Vietnam",
@@ -139,6 +141,45 @@ export const translations = {
       "Backed by the robust operational expertise and full legal compliance of Ofo Tourist, we act as a trusted local extension for world-class international brands looking to establish a powerful, secure footprint in Vietnam.",
     aboutUsDesc3:
       "We don't just distribute; we elevate. Our strict non-compete B2B philosophy ensures that while we handle complex market onboarding and localized marketing execution for global giants, your data and networks remain 100% protected. This unique ecosystem synergy allows us to bring deep local insights and unparalleled operational precision to market leaders worldwide.",
+    ecosystemLabel: "Strategic Ecosystem",
+    ecosystemTitle: "Three specialized strengths. One trusted travel platform.",
+    ecosystemDesc:
+      "From premium outbound distribution to inbound destination management and compliant operational backing, every division is designed to reinforce partner confidence.",
+    ecosystemConnectNote: "Vietnam GSA & Outbound",
+    ecosystemTravelNote: "Inbound DMC",
+    ecosystemTouristNote: "Legal & Operations",
+    aboutStoryLabel: "Our Story",
+    missionStatementLabel: "Mission Statement",
+    missionQuote: "\"We don't just distribute; we elevate.\"",
+    missionDesc:
+      "Our non-compete B2B philosophy protects partner data and networks while we handle market onboarding, localized marketing, and precise Vietnam execution.",
+    pillarOutboundTitle: "Outbound Sales Development",
+    pillarOutboundDesc:
+      "We specialize in premium, high-end, and bespoke outbound travel sectors, turning complex international products into local market growth.",
+    pillarRepresentationTitle: "Strategic Local Representation",
+    pillarRepresentationDesc:
+      "We act as a trusted Vietnam-based extension for world-class brands looking to build a powerful, secure local footprint.",
+    pillarProtectedTitle: "Protected B2B Ecosystem",
+    pillarProtectedDesc:
+      "Our strict non-compete philosophy keeps partner data, client leads, and market networks fully protected inside the GSA ecosystem.",
+    travelAtmosphereLabel: "Travel Atmosphere",
+    travelAtmosphereTitle: "Minimal, Refined, World-Class",
+    travelAtmosphereDesc:
+      "Visual cues built around premium service, Japanese transport excellence, and timeless European heritage.",
+    premiumServiceLabel: "Premium Service",
+    visualPremiumTitle: "Premium Bespoke Service",
+    visualPremiumDesc: "A calm, high-end service experience designed for discerning travelers.",
+    visualPremiumAlt: "A couple receiving premium travel concierge service in a luxury lounge",
+    visualShinkansenTitle: "Quiet Japanese Precision",
+    visualShinkansenDesc:
+      "An uncluttered Shinkansen cabin that reflects comfort, privacy, and operational excellence.",
+    visualShinkansenAlt: "A quiet and minimal Shinkansen cabin with premium seats",
+    visualEuropeTitle: "Elegant European Heritage",
+    visualEuropeDesc: "A refined historic European street corner for luxury, culture-rich travel concepts.",
+    visualEuropeAlt: "A historic European street corner with elegant architecture",
+    portfolioLabel: "Elite Partnerships",
+    coreStrengthsLabel: "Core Strengths",
+    whyUsLabel: "Why Us",
 
     // Portfolio Section
     portfolioTitle: "Driven by Elite Global Partnerships",
@@ -234,14 +275,18 @@ export const translations = {
     // Contact Section
     contactTitle: "Get In Touch",
     contactSubtitle: "Connect with our offices worldwide for personalized support and local expertise.",
+    globalPresenceLabel: "Global Presence",
     vietnamOfficeTitle: "Vietnam",
+    vietnamOfficeSubtitle: "Headquarters & Operations",
     vietnamAddress: "5th Floor, 70 Pham Ngoc Thach, Xuan Hoa Ward, HCMC, Vietnam",
     vietnamPhone: "+84 919 888 301",
     vietnamEmail: "contact@ofoconnect.com",
     franceOfficeTitle: "France",
+    franceOfficeSubtitle: "European Operations",
     franceAddress: "40 Avenue André Malraux, 77600 Bussy Saint Georges, France",
     francePhone: "+33 6 43 52 38 72",
     japanOfficeTitle: "Japan",
+    japanOfficeSubtitle: "Japan Office",
     japanAddress: "#1002 Nakanosakaue Sunbright Twin, 2-46-1 Honcho, Nakano-ku, Tokyo 164-0012, Japan",
     japanPhone: "+81-3-6457-8980",
     businessLicense: "Business License",
@@ -252,6 +297,7 @@ export const translations = {
     firstName: "First Name",
     lastName: "Last Name",
     company: "Company",
+    email: "Email",
     message: "Message",
     messagePlaceholder: "Tell us about your business and how we can help...",
     sendMessageBtn: "Send Message",
@@ -276,8 +322,10 @@ export const translations = {
     // Hero Section
     heroTagline: "OFO Strategic Ecosystem",
     heroSubtitle:
-      "Leveraging group synergy to deliver comprehensive, world-class travel distribution and destination management.",
-    getInTouch: "Partner With Us",
+      "Tận dụng sức mạnh cộng hưởng của hệ sinh thái để mang đến giải pháp phân phối du lịch và quản lý điểm đến toàn diện, đạt chuẩn quốc tế.",
+    getInTouch: "Hợp Tác Với Chúng Tôi",
+    heroEyebrow: "Đại lý Tổng GSA & Bán Hàng Outbound",
+    heroSecondaryCta: "Kết Nối Với Đội Ngũ GSA",
 
     // About Section
     aboutTitle: "Đối Tác Du Lịch Đáng Tin Cậy Của Bạn Tại Việt Nam",
@@ -410,6 +458,45 @@ export const translations = {
       "Được hỗ trợ bởi chuyên môm hoạt động mạnh mẽ và tuân thủ pháp lý đầy đủ của Ofo Tourist, chúng tôi hoạt động như một phần mở rộng đáng tin cậy địa phương cho các thương hiệu quốc tế hạng nhất tìm cách thiết lập chân dung mạnh mẽ và an toàn tại Việt Nam.",
     aboutUsDesc3:
       "Chúng tôi không chỉ phân phối; chúng tôi nâng cao. Triết lý B2B không cạnh tranh nghiêm ngặt của chúng tôi đảm bảo rằng trong khi chúng tôi xử lý onboarding thị trường phức tạp và thực hiện marketing địa phương cho các gã khổng lồ toàn cầu, dữ liệu và mạng lưới của bạn vẫn 100% được bảo vệ. Sự đồng bộ hệ thống sinh thái độc đáo này cho phép chúng tôi mang lại những hiểu biết sâu sắc địa phương và chính xác hoạt động không thể so sánh được cho các nhà lãnh đạo thị trường trên toàn cầu.",
+    ecosystemLabel: "Hệ Sinh Thái Chiến Lược",
+    ecosystemTitle: "Ba năng lực chuyên biệt. Một nền tảng du lịch đáng tin cậy.",
+    ecosystemDesc:
+      "Từ phân phối outbound cao cấp đến quản lý điểm đến inbound và nền tảng vận hành tuân thủ, mỗi bộ phận đều được thiết kế để củng cố niềm tin cho đối tác.",
+    ecosystemConnectNote: "GSA Việt Nam & Outbound",
+    ecosystemTravelNote: "DMC Inbound",
+    ecosystemTouristNote: "Pháp Lý & Vận Hành",
+    aboutStoryLabel: "Câu Chuyện Của Chúng Tôi",
+    missionStatementLabel: "Tuyên Bố Sứ Mệnh",
+    missionQuote: "\"Chúng tôi không chỉ phân phối; chúng tôi nâng tầm.\"",
+    missionDesc:
+      "Triết lý B2B không cạnh tranh bảo vệ dữ liệu và mạng lưới đối tác trong khi chúng tôi triển khai gia nhập thị trường, marketing địa phương và vận hành chính xác tại Việt Nam.",
+    pillarOutboundTitle: "Phát Triển Bán Hàng Outbound",
+    pillarOutboundDesc:
+      "Chúng tôi chuyên về các mảng du lịch outbound cao cấp, hạng sang và bespoke, biến sản phẩm quốc tế phức tạp thành tăng trưởng tại thị trường địa phương.",
+    pillarRepresentationTitle: "Đại Diện Địa Phương Chiến Lược",
+    pillarRepresentationDesc:
+      "Chúng tôi là phần mở rộng đáng tin cậy tại Việt Nam cho các thương hiệu quốc tế muốn xây dựng hiện diện mạnh mẽ và an toàn.",
+    pillarProtectedTitle: "Hệ Sinh Thái B2B Được Bảo Vệ",
+    pillarProtectedDesc:
+      "Triết lý không cạnh tranh nghiêm ngặt giúp dữ liệu đối tác, khách hàng tiềm năng và mạng lưới thị trường được bảo vệ trong hệ sinh thái GSA.",
+    travelAtmosphereLabel: "Không Gian Du Lịch",
+    travelAtmosphereTitle: "Tối Giản, Tinh Tế, Đẳng Cấp Quốc Tế",
+    travelAtmosphereDesc:
+      "Ngôn ngữ hình ảnh xoay quanh dịch vụ cao cấp, tiêu chuẩn vận tải Nhật Bản và di sản châu Âu vượt thời gian.",
+    premiumServiceLabel: "Dịch Vụ Cao Cấp",
+    visualPremiumTitle: "Dịch Vụ Bespoke Cao Cấp",
+    visualPremiumDesc: "Một trải nghiệm dịch vụ yên tĩnh, cao cấp dành cho những du khách tinh tế.",
+    visualPremiumAlt: "Một cặp đôi đang nhận dịch vụ tư vấn du lịch cao cấp trong lounge sang trọng",
+    visualShinkansenTitle: "Độ Chính Xác Tĩnh Lặng Của Nhật Bản",
+    visualShinkansenDesc:
+      "Khoang Shinkansen gọn gàng, phản ánh sự thoải mái, riêng tư và năng lực vận hành chuẩn mực.",
+    visualShinkansenAlt: "Khoang Shinkansen yên tĩnh và tối giản với ghế ngồi cao cấp",
+    visualEuropeTitle: "Di Sản Châu Âu Thanh Lịch",
+    visualEuropeDesc: "Một góc phố châu Âu cổ kính, tinh tế cho các ý tưởng du lịch văn hóa cao cấp.",
+    visualEuropeAlt: "Một góc phố châu Âu cổ kính với kiến trúc thanh lịch",
+    portfolioLabel: "Đối Tác Tinh Hoa",
+    coreStrengthsLabel: "Năng Lực Cốt Lõi",
+    whyUsLabel: "Vì Sao Chọn Chúng Tôi",
 
     // Portfolio Section
     portfolioTitle: "Được Hỗ Trợ bởi Những Quan Hệ Đối Tác Toàn Cầu Hàng Đầu",
@@ -461,7 +548,7 @@ export const translations = {
 
     // Registration Form
     registrationTitle: "Sẵn Sàng Mở Rộng Vào Việt Nam?",
-    registrationSubtitle: "Let's Connect.",
+    registrationSubtitle: "Hãy Kết Nối.",
     registrationDesc: "Tham gia các thương hiệu du lịch hàng đầu tin tưởng OFO Connect để cung cấp năng lượng cho sự mở rộng Việt Nam của họ.",
 
     // Cities
@@ -507,14 +594,18 @@ export const translations = {
     contactTitle: "Liên Hệ",
     contactSubtitle:
       "Kết nối với các văn phòng của chúng tôi trên toàn thế giới để được hỗ trợ cá nhân hóa và chuyên môn địa phương.",
+    globalPresenceLabel: "Hiện Diện Toàn Cầu",
     vietnamOfficeTitle: "Việt Nam",
+    vietnamOfficeSubtitle: "Trụ Sở & Vận Hành",
     vietnamAddress: "Tầng 5, 70 Phạm Ngọc Thạch, Phường Xuân Hòa, TP.HCM, Việt Nam",
     vietnamPhone: "+84 919 888 301",
     vietnamEmail: "contact@ofoconnect.com",
     franceOfficeTitle: "Pháp",
+    franceOfficeSubtitle: "Vận Hành Châu Âu",
     franceAddress: "40 Avenue André Malraux, 77600 Bussy Saint Georges, Pháp",
     francePhone: "+33 6 43 52 38 72",
     japanOfficeTitle: "Nhật Bản",
+    japanOfficeSubtitle: "Văn Phòng Nhật Bản",
     japanAddress: "#1002 Nakanosakaue Sunbright Twin, 2-46-1 Honcho, Nakano-ku, Tokyo 164-0012, Nhật Bản",
     japanPhone: "+81-3-6457-8980",
     businessLicense: "Giấy Phép Kinh Doanh",
@@ -525,6 +616,7 @@ export const translations = {
     firstName: "Tên",
     lastName: "Họ",
     company: "Công Ty",
+    email: "Email",
     message: "Tin Nhắn",
     messagePlaceholder: "Hãy cho chúng tôi biết về doanh nghiệp của bạn và cách chúng tôi có thể giúp đỡ...",
     sendMessageBtn: "Gửi Tin Nhắn",
@@ -549,8 +641,10 @@ export const translations = {
     // Hero Section
     heroTagline: "OFO Strategic Ecosystem",
     heroSubtitle:
-      "Leveraging group synergy to deliver comprehensive, world-class travel distribution and destination management.",
-    getInTouch: "Partner With Us",
+      "グループシナジーを活かし、世界水準の旅行流通とデスティネーションマネジメントを包括的に提供します。",
+    getInTouch: "パートナーになる",
+    heroEyebrow: "GSA・アウトバウンド営業",
+    heroSecondaryCta: "GSAチームに相談する",
 
     // About Section
     aboutTitle: "ベトナムにおける信頼できる旅行パートナー",
@@ -652,6 +746,104 @@ export const translations = {
     vitTravelCountry: "イタリア",
     visitWebsite: "ウェブサイトを見る",
 
+    // OFO Connect Divisions
+    ofoConnect: "OFO Connect（GSA・アウトバウンド営業）",
+    ofoConnectDesc:
+      "ベトナムにおける専任のGeneral Sales Agentおよび現地代表として、VIT、DreamJapan、Kaytripなどの国際的な一流ブランドの現地流通を支援し、プレミアムおよびオーダーメイドのアウトバウンド旅行分野に注力します。",
+    ofoTravel: "OFO Travel（インバウンドDMC）",
+    ofoTravelDesc:
+      "ベトナムを訪れる海外旅行者の受け入れに特化した部門です。OFO Travelは海外市場向けのB2B Destination Management Company（DMC）として運営し、国内・アウトバウンド業務との重複を避けています。",
+    ofoTourist: "OFO Tourist（運営・法務基盤）",
+    ofoTouristDesc:
+      "グループの強固な基盤として、包括的な運営ノウハウ、幅広い現地ネットワーク、法令遵守に基づく法的支援を提供し、市場での信頼を支えます。",
+
+    // About Us Section
+    aboutUsTitle: "私たちについて",
+    aboutUsDesc:
+      "Ofo Connectは、プレミアム、ハイエンド、オーダーメイド旅行分野に特化し、アウトバウンド営業開発と戦略的な現地代表業務に強みを持っています。OFO Strategic Ecosystemの専門部門として、海外市場向けのラグジュアリーかつテーラーメイドなインバウンド旅行に特化するOFO Travelと連携して運営しています。",
+    aboutUsDesc2:
+      "Ofo Touristの確かな運営力と法令遵守体制を背景に、ベトナムで強力かつ安全な市場基盤を築きたい世界水準の国際ブランドにとって、信頼できる現地拠点として機能します。",
+    aboutUsDesc3:
+      "私たちは単に流通するだけではなく、価値を高めます。厳格な非競争型B2B方針により、市場参入、現地マーケティング、運営実行を担いながら、パートナーのデータとネットワークを確実に保護します。",
+    ecosystemLabel: "戦略的エコシステム",
+    ecosystemTitle: "三つの専門領域。一つの信頼できる旅行プラットフォーム。",
+    ecosystemDesc:
+      "プレミアムなアウトバウンド流通、インバウンドDMC、法令遵守に基づく運営基盤まで、各部門がパートナーの信頼を強化するために設計されています。",
+    ecosystemConnectNote: "ベトナムGSA・アウトバウンド",
+    ecosystemTravelNote: "インバウンドDMC",
+    ecosystemTouristNote: "法務・運営",
+    aboutStoryLabel: "私たちのストーリー",
+    missionStatementLabel: "ミッション",
+    missionQuote: "「私たちは単に流通するだけではなく、価値を高めます。」",
+    missionDesc:
+      "非競争型B2B方針により、パートナーのデータとネットワークを守りながら、市場参入、現地マーケティング、ベトナムでの精密な運営実行を支援します。",
+    pillarOutboundTitle: "アウトバウンド営業開発",
+    pillarOutboundDesc:
+      "プレミアム、ハイエンド、オーダーメイドのアウトバウンド旅行分野に特化し、複雑な国際商品を現地市場の成長へつなげます。",
+    pillarRepresentationTitle: "戦略的な現地代表",
+    pillarRepresentationDesc:
+      "世界水準のブランドがベトナムで力強く安全なプレゼンスを築くための信頼できる現地拠点となります。",
+    pillarProtectedTitle: "保護されたB2Bエコシステム",
+    pillarProtectedDesc:
+      "厳格な非競争方針により、パートナーデータ、顧客リード、市場ネットワークをGSAエコシステム内で保護します。",
+    travelAtmosphereLabel: "旅の空気感",
+    travelAtmosphereTitle: "ミニマル、洗練、世界水準",
+    travelAtmosphereDesc:
+      "プレミアムサービス、日本の交通品質、時を超えるヨーロッパのヘリテージを軸にしたビジュアル表現です。",
+    premiumServiceLabel: "プレミアムサービス",
+    visualPremiumTitle: "プレミアム・オーダーメイドサービス",
+    visualPremiumDesc: "目の肥えた旅行者のための、落ち着きある上質なサービス体験。",
+    visualPremiumAlt: "ラグジュアリーラウンジでプレミアムな旅行コンシェルジュサービスを受けるカップル",
+    visualShinkansenTitle: "日本の静かな精密さ",
+    visualShinkansenDesc:
+      "快適性、プライバシー、運営品質を映し出す、すっきりとした新幹線車内。",
+    visualShinkansenAlt: "プレミアムシートを備えた静かでミニマルな新幹線車内",
+    visualEuropeTitle: "優雅なヨーロッパのヘリテージ",
+    visualEuropeDesc: "文化性の高いラグジュアリー旅行コンセプトにふさわしい、洗練された歴史的な街角。",
+    visualEuropeAlt: "優雅な建築が並ぶ歴史的なヨーロッパの街角",
+    portfolioLabel: "一流パートナーシップ",
+    portfolioTitle: "一流グローバルパートナーシップが推進",
+    portfolioSubtitle:
+      "私たちは単にネットワークを作るのではなく、市場を切り拓く企業との強力なアライアンスを築きます。Ofo Connectは高収益・プレミアム領域を牽引する世界水準の事業者を代表し、協業しています。",
+    portfolioTagline: "世界水準の事業者と連携し、現地流通と市場信頼を提供します。",
+    kaytripDesc: "ヨーロッパを代表する旅行ネットワークおよび複数目的地オペレーター。",
+    dreamJapanDescDetail: "日本におけるプレミアムDMCおよび高級交通サービスの専門家。",
+    vitDesc: "ヨーロッパ全域におけるラグジュアリーなテーラーメイド・オーダーメイド旅行コンセプトの先駆者。",
+    coreStrengthsLabel: "中核能力",
+    gsaTitle: "私たちの中核能力",
+    gsaSubtitle: "国際旅行ブランドに提供する価値",
+    gsa1Title: "公式代表",
+    gsa1Desc: "ベトナムにおける認可された信頼性の高い現地オフィス兼ブランド管理者として機能します。",
+    gsa2Title: "プレミアム市場開発",
+    gsa2Desc: "ハイエンド、ラグジュアリー、特別関心旅行分野に特化したB2B営業戦略を展開します。",
+    gsa3Title: "オーダーメイド商品の統合",
+    gsa3Desc: "複雑なテーラーメイド国際旅行商品を、現地市場で成功する商品へ翻訳・適応します。",
+    gsa4Title: "代理店研修・オンボーディング",
+    gsa4Desc: "現地旅行業界に対し、プレミアム商品への深い理解を提供します。",
+    gsa5Title: "現地化マーケティング・活性化",
+    gsa5Desc: "ラグジュアリーブランド認知を高めるためのデジタルおよびオフライン施策を実行します。",
+    gsa6Title: "実績・コンプライアンス報告",
+    gsa6Desc: "透明なコミュニケーション、データに基づく収益報告、Ofo Touristによる法的基盤を提供します。",
+    whyUsLabel: "選ばれる理由",
+    whyChooseTitle: "Ofo Connectの強み",
+    whyChooseSubtitle: "私たちと提携する理由",
+    whyChoose1: "量より質を重視",
+    whyChoose1Desc: "KaytripやDreamJapanのような市場リーダーとの深い関係に注力し、高品質な実行を保証します。",
+    whyChoose2: "比類なき目的地専門性",
+    whyChoose2Desc: "日本とヨーロッパのラグジュアリーホスピタリティ市場を深く知る商品設計者が対応します。",
+    whyChoose3: "多言語オペレーション力",
+    whyChoose3Desc: "英語、日本語、ベトナム語に対応し、24時間体制の国際コミュニケーションを支えます。",
+    whyChoose4: "完全なライセンスとコンプライアンス",
+    whyChoose4Desc: "Ofo Touristの法人・法務基盤により、国際的なコンプライアンス面で安心を提供します。",
+    whyChoose5: "絶対的なB2B誠実性と非競争方針",
+    whyChoose5Desc:
+      "グループ各部門を厳格に分離し、現地代理店データ、顧客リード、市場ネットワークをGSAエコシステム内で確実に保護します。",
+
+    // Registration Form
+    registrationTitle: "ベトナム市場への展開準備はできていますか？",
+    registrationSubtitle: "つながりましょう。",
+    registrationDesc: "ベトナム展開をOFO Connectに託す一流旅行ブランドのネットワークに参加してください。",
+
     // Bus Tour Section
     busTourTitle: "ヨーロッパバスツアーマップ",
     busTourSubtitle:
@@ -683,8 +875,8 @@ export const translations = {
     "cityDescriptions.brussels": "ヨーロッパの首都 • チョコレート＆ワッフル",
 
     // Why Choose Us Section
-    whyChooseTitle: "Ofo Connect Advantage",
-    whyChooseSubtitle: "Why partner with us",
+    whyChooseTitle: "Ofo Connectの強み",
+    whyChooseSubtitle: "私たちと提携する理由",
     agencyNetworkTitle: "広範囲な代理店ネットワーク",
     agencyNetworkDesc: "ベトナム全土の500以上の旅行代理店へのアクセスで、最大限の市場カバレッジを確保。",
     b2bSalesTeam: "専任B2B営業チーム",
@@ -701,14 +893,18 @@ export const translations = {
     // Contact Section
     contactTitle: "お問い合わせ",
     contactSubtitle: "世界各地のオフィスと連絡を取り、個別サポートと現地専門知識をご利用ください。",
+    globalPresenceLabel: "グローバル拠点",
     vietnamOfficeTitle: "ベトナム",
+    vietnamOfficeSubtitle: "本社・運営",
     vietnamAddress: "5階, 70 Pham Ngoc Thach, Xuan Hoa Ward, ホーチミン市, ベトナム",
     vietnamPhone: "+84 919 888 301",
     vietnamEmail: "contact@ofoconnect.com",
     franceOfficeTitle: "フランス",
+    franceOfficeSubtitle: "ヨーロッパ運営",
     franceAddress: "40 Avenue André Malraux, 77600 Bussy Saint Georges, フランス",
     francePhone: "+33 6 43 52 38 72",
     japanOfficeTitle: "日本",
+    japanOfficeSubtitle: "日本オフィス",
     japanAddress: "#1002 中野坂上サンブライトツイン, 2-46-1 本町, 中野区, 東京 164-0012, 日本",
     japanPhone: "+81-3-6457-8980",
     businessLicense: "事業ライセンス",
@@ -719,6 +915,7 @@ export const translations = {
     firstName: "名",
     lastName: "姓",
     company: "会社名",
+    email: "メール",
     message: "メッセージ",
     messagePlaceholder: "あなたのビジネスと私たちがどのようにお手伝いできるかをお聞かせください...",
     sendMessageBtn: "メッセージを送信",
@@ -743,8 +940,10 @@ export const translations = {
     // Hero Section
     heroTagline: "OFO Strategic Ecosystem",
     heroSubtitle:
-      "Leveraging group synergy to deliver comprehensive, world-class travel distribution and destination management.",
-    getInTouch: "Partner With Us",
+      "En tirant parti des synergies du groupe, nous fournissons une distribution de voyage et une gestion de destination complètes, au niveau international.",
+    getInTouch: "Devenir Partenaire",
+    heroEyebrow: "GSA & Ventes Outbound",
+    heroSecondaryCta: "Contacter Notre Équipe GSA",
 
     // About Section
     aboutTitle: "Votre Partenaire de Voyage de Confiance au Vietnam",
@@ -860,6 +1059,104 @@ export const translations = {
     vitTravelCountry: "Italie",
     visitWebsite: "Visiter le Site Web",
 
+    // OFO Connect Divisions
+    ofoConnect: "OFO Connect (GSA & Ventes Outbound)",
+    ofoConnectDesc:
+      "Votre General Sales Agent dédié et représentant local au Vietnam. Nous développons la distribution locale de marques internationales d'élite comme VIT, DreamJapan et Kaytrip, avec un focus sur les segments outbound premium et sur mesure.",
+    ofoTravel: "OFO Travel (Destination Management Inbound)",
+    ofoTravelDesc:
+      "Dédié exclusivement à l'accueil des touristes internationaux au Vietnam. OFO Travel opère strictement comme Destination Management Company (DMC) B2B pour les marchés étrangers, sans chevauchement avec les activités domestiques ou outbound locales.",
+    ofoTourist: "OFO Tourist (Soutien Opérationnel & Juridique)",
+    ofoTouristDesc:
+      "La base solide du groupe, fournissant une expertise opérationnelle complète, un vaste réseau local et un soutien juridique pleinement conforme qui renforce la confiance du marché.",
+
+    // About Us Section
+    aboutUsTitle: "Qui Sommes-Nous",
+    aboutUsDesc:
+      "Chez Ofo Connect, nous excellons dans le développement des ventes outbound et la représentation locale stratégique, avec une spécialisation dans les segments de voyage premium, haut de gamme et sur mesure. En tant que division spécialisée de l'OFO Strategic Ecosystem, nous opérons aux côtés d'OFO Travel, la division inbound du groupe dédiée aux marchés étrangers.",
+    aboutUsDesc2:
+      "Soutenus par l'expertise opérationnelle robuste et la conformité juridique complète d'Ofo Tourist, nous agissons comme une extension locale de confiance pour les marques internationales souhaitant établir une présence puissante et sécurisée au Vietnam.",
+    aboutUsDesc3:
+      "Nous ne faisons pas que distribuer; nous élevons. Notre philosophie B2B stricte de non-concurrence protège les données et réseaux de nos partenaires pendant que nous assurons l'entrée marché, le marketing localisé et l'exécution opérationnelle.",
+    ecosystemLabel: "Écosystème Stratégique",
+    ecosystemTitle: "Trois expertises spécialisées. Une plateforme de voyage fiable.",
+    ecosystemDesc:
+      "De la distribution outbound premium au destination management inbound et au soutien opérationnel conforme, chaque division est conçue pour renforcer la confiance des partenaires.",
+    ecosystemConnectNote: "GSA Vietnam & Outbound",
+    ecosystemTravelNote: "DMC Inbound",
+    ecosystemTouristNote: "Juridique & Opérations",
+    aboutStoryLabel: "Notre Histoire",
+    missionStatementLabel: "Déclaration de Mission",
+    missionQuote: "\"Nous ne faisons pas que distribuer; nous élevons.\"",
+    missionDesc:
+      "Notre philosophie B2B de non-concurrence protège les données et réseaux des partenaires pendant que nous gérons l'entrée marché, le marketing localisé et l'exécution précise au Vietnam.",
+    pillarOutboundTitle: "Développement des Ventes Outbound",
+    pillarOutboundDesc:
+      "Nous sommes spécialisés dans les segments outbound premium, haut de gamme et sur mesure, transformant des produits internationaux complexes en croissance locale.",
+    pillarRepresentationTitle: "Représentation Locale Stratégique",
+    pillarRepresentationDesc:
+      "Nous agissons comme une extension de confiance basée au Vietnam pour les marques internationales souhaitant construire une présence locale puissante et sécurisée.",
+    pillarProtectedTitle: "Écosystème B2B Protégé",
+    pillarProtectedDesc:
+      "Notre philosophie stricte de non-concurrence protège les données partenaires, prospects clients et réseaux marché au sein de l'écosystème GSA.",
+    travelAtmosphereLabel: "Atmosphère de Voyage",
+    travelAtmosphereTitle: "Minimal, Raffiné, Niveau International",
+    travelAtmosphereDesc:
+      "Une direction visuelle construite autour du service premium, de l'excellence du transport japonais et du patrimoine européen intemporel.",
+    premiumServiceLabel: "Service Premium",
+    visualPremiumTitle: "Service Premium Sur Mesure",
+    visualPremiumDesc: "Une expérience de service calme et haut de gamme pensée pour les voyageurs exigeants.",
+    visualPremiumAlt: "Un couple recevant un service de conciergerie voyage premium dans un lounge luxueux",
+    visualShinkansenTitle: "Précision Japonaise Silencieuse",
+    visualShinkansenDesc:
+      "Une cabine Shinkansen épurée reflétant confort, intimité et excellence opérationnelle.",
+    visualShinkansenAlt: "Une cabine Shinkansen calme et minimaliste avec des sièges premium",
+    visualEuropeTitle: "Patrimoine Européen Élégant",
+    visualEuropeDesc: "Un coin de rue européen historique et raffiné pour des concepts de voyage culturels premium.",
+    visualEuropeAlt: "Un coin de rue historique européen avec une architecture élégante",
+    portfolioLabel: "Partenariats d'Élite",
+    portfolioTitle: "Porté par des Partenariats Mondiaux d'Élite",
+    portfolioSubtitle:
+      "Nous ne construisons pas seulement des réseaux; nous sélectionnons des alliances puissantes avec des pionniers du marché. Ofo Connect représente et collabore avec des opérateurs de classe mondiale pour dominer les segments premium à forte valeur.",
+    portfolioTagline: "Nous nous alignons avec des opérateurs de classe mondiale pour offrir une distribution locale et une confiance marché inégalées.",
+    kaytripDesc: "Réseau de voyage leader en Europe et opérateur multi-destinations.",
+    dreamJapanDescDetail: "Spécialistes premium du destination management et du transport haut de gamme au Japon.",
+    vitDesc: "Pionniers des concepts de voyage luxe, tailor-made et sur mesure à travers l'Europe.",
+    coreStrengthsLabel: "Forces Clés",
+    gsaTitle: "Nos Capacités Clés",
+    gsaSubtitle: "Ce que nous apportons aux marques de voyage internationales",
+    gsa1Title: "Représentation Officielle",
+    gsa1Desc: "Agir comme votre bureau local agréé, réputé et gardien de marque au Vietnam.",
+    gsa2Title: "Développement du Marché Premium",
+    gsa2Desc: "Stratégies de vente B2B proactives adaptées aux segments luxe, premium et voyages d'intérêt spécial.",
+    gsa3Title: "Intégration de Produits Sur Mesure",
+    gsa3Desc: "Traduire et adapter des produits de voyage internationaux complexes en offres locales performantes.",
+    gsa4Title: "Formation & Onboarding des Agents",
+    gsa4Desc: "Donner au trade local une connaissance approfondie de vos produits premium et haut de gamme.",
+    gsa5Title: "Marketing Localisé & Activation",
+    gsa5Desc: "Campagnes digitales et offline adaptées pour développer la notoriété des marques luxe.",
+    gsa6Title: "Reporting Performance & Conformité",
+    gsa6Desc: "Communication transparente, reporting de revenus piloté par la donnée et soutien juridique solide via Ofo Tourist.",
+    whyUsLabel: "Pourquoi Nous",
+    whyChooseTitle: "L'Avantage Ofo Connect",
+    whyChooseSubtitle: "Pourquoi devenir partenaire",
+    whyChoose1: "Qualité d'Élite Plutôt que Quantité",
+    whyChoose1Desc: "Nous privilégions des relations profondes et impactantes avec des leaders comme Kaytrip et DreamJapan afin de garantir une exécution haut niveau.",
+    whyChoose2: "Expertise Destination Inégalée",
+    whyChoose2Desc: "Des concepteurs produits spécialisés possèdent une connaissance directe des marchés luxe de l'hospitalité au Japon et en Europe.",
+    whyChoose3: "Excellence Opérationnelle Multilingue",
+    whyChoose3Desc: "Maîtrise de l'anglais, du japonais et du vietnamien pour une communication transfrontalière fluide, 24/7.",
+    whyChoose4: "Entièrement Licencié & Conforme",
+    whyChoose4Desc: "Soutien corporate et juridique solide d'Ofo Tourist, offrant une tranquillité totale sur la conformité internationale.",
+    whyChoose5: "Intégrité B2B Absolue & Non-Concurrence",
+    whyChoose5Desc:
+      "Nous séparons strictement les divisions du groupe afin que les données agents, prospects clients et réseaux marché restent protégés dans l'écosystème GSA.",
+
+    // Registration Form
+    registrationTitle: "Prêt à Vous Développer au Vietnam ?",
+    registrationSubtitle: "Connectons-nous.",
+    registrationDesc: "Rejoignez les marques de voyage leaders qui font confiance à OFO Connect pour soutenir leur expansion au Vietnam.",
+
     // Bus Tour Section
     busTourTitle: "Carte du Tour en Bus Européen",
     busTourSubtitle:
@@ -891,8 +1188,8 @@ export const translations = {
     "cityDescriptions.brussels": "Capitale européenne • Chocolat & gaufres",
 
     // Why Choose Us Section
-    whyChooseTitle: "Ofo Connect Advantage",
-    whyChooseSubtitle: "Why partner with us",
+    whyChooseTitle: "L'Avantage Ofo Connect",
+    whyChooseSubtitle: "Pourquoi devenir partenaire",
     agencyNetworkTitle: "Réseau d'Agences Étendu",
     agencyNetworkDesc:
       "Accès à plus de 500+ agences de voyage à travers le Vietnam, assurant une couverture maximale du marché.",
@@ -913,14 +1210,18 @@ export const translations = {
     contactTitle: "Nous Contacter",
     contactSubtitle:
       "Connectez-vous avec nos bureaux dans le monde entier pour un support personnalisé et une expertise locale.",
+    globalPresenceLabel: "Présence Mondiale",
     vietnamOfficeTitle: "Vietnam",
+    vietnamOfficeSubtitle: "Siège & Opérations",
     vietnamAddress: "5ème étage, 70 Pham Ngoc Thach, Quartier Xuan Hoa, HCMC, Vietnam",
     vietnamPhone: "+84 919 888 301",
     vietnamEmail: "contact@ofoconnect.com",
     franceOfficeTitle: "France",
+    franceOfficeSubtitle: "Opérations Europe",
     franceAddress: "40 Avenue André Malraux, 77600 Bussy Saint Georges, France",
     francePhone: "+33 6 43 52 38 72",
     japanOfficeTitle: "Japon",
+    japanOfficeSubtitle: "Bureau Japon",
     japanAddress: "#1002 Nakanosakaue Sunbright Twin, 2-46-1 Honcho, Nakano-ku, Tokyo 164-0012, Japon",
     japanPhone: "+81-3-6457-8980",
     businessLicense: "Licence Commerciale",
@@ -931,6 +1232,7 @@ export const translations = {
     firstName: "Prénom",
     lastName: "Nom",
     company: "Entreprise",
+    email: "Email",
     message: "Message",
     messagePlaceholder: "Parlez-nous de votre entreprise et comment nous pouvons vous aider...",
     sendMessageBtn: "Envoyer le Message",

@@ -24,6 +24,18 @@
     --input: 214.3 31.8% 91.4%;
     --ring: 221.2 83.2% 53.3%;
     --radius: 0.75rem;
+    --luxury-background: #F5F1EA;
+    --luxury-surface: #FBF8F2;
+    --luxury-alternate: #ECE4D7;
+    --luxury-midnight: #151C27;
+    --luxury-panel: #101827;
+    --luxury-ink: #18202B;
+    --luxury-muted: #62615D;
+    --luxury-gold: #B08A4A;
+    --luxury-champagne: #D8C39D;
+    --luxury-sage: #61756B;
+    --luxury-border: #DDD2C1;
+    --luxury-on-dark: #F7F1E7;
   }
 
   .dark {
@@ -55,6 +67,8 @@
   }
   body {
     @apply bg-background text-foreground;
+    background-color: var(--luxury-background);
+    color: var(--luxury-ink);
   }
 }
 
@@ -68,16 +82,16 @@ html {
 }
 
 ::-webkit-scrollbar-track {
-  background: #f1f5f9;
+  background: var(--luxury-background);
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #cbd5e1;
+  background: var(--luxury-champagne);
   border-radius: 4px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-  background: #94a3b8;
+  background: var(--luxury-gold);
 }
 
 /* Animation utilities */
@@ -98,7 +112,7 @@ html {
 
 /* Gradient text */
 .gradient-text {
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, var(--luxury-gold) 0%, var(--luxury-midnight) 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -106,9 +120,9 @@ html {
 
 /* Glass morphism effect */
 .glass {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(251, 248, 242, 0.1);
   backdrop-filter: blur(10px);
-  border: 1px solid rgba(255, 255, 255, 0.2);
+  border: 1px solid rgba(216, 195, 157, 0.25);
 }
 
 /* Hover effects */
