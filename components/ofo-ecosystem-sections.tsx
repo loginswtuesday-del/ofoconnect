@@ -6,6 +6,9 @@ import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import { Textarea } from '@/components/ui/textarea'
 import { ArrowRight, CheckCircle } from 'lucide-react'
+import { dreamJapanLogo } from '@/components/common/dream-japan-travel'
+import { kayTripLogo } from '@/components/common/ktrip-travel'
+import { vitLogo } from '@/components/common/vit-travel'
 
 export function OfoEcosystemSection() {
   const { t } = useLanguage()
@@ -85,7 +88,7 @@ export function PortfolioSection() {
   const { t } = useLanguage()
 
   return (
-    <section className="py-24 bg-white">
+    <section id="partners" className="py-24 bg-white">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-20">
           <span className="inline-block px-4 py-2 bg-blue-100 text-blue-700 rounded-full text-sm font-medium uppercase tracking-wide mb-6">
@@ -101,19 +104,25 @@ export function PortfolioSection() {
 
         <div className="grid md:grid-cols-3 gap-8 mb-12">
           <div className="bg-gradient-to-br from-blue-50 to-blue-100 rounded-3xl p-8 hover:shadow-xl transition-all">
-            <div className="text-4xl mb-4">✈️</div>
+            <div className="h-16 flex items-center mb-6">
+              <img src={`data:image/png;base64,${kayTripLogo}`} alt="Kaytrip" className="max-h-14 max-w-full" />
+            </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-3">Kaytrip</h3>
             <p className="text-gray-700">{t('kaytripDesc')}</p>
           </div>
 
           <div className="bg-gradient-to-br from-red-50 to-red-100 rounded-3xl p-8 hover:shadow-xl transition-all">
-            <div className="text-4xl mb-4">🗾</div>
+            <div className="h-16 flex items-center mb-6">
+              <img src={`data:image/png;base64,${dreamJapanLogo}`} alt="DreamJapan" className="max-h-14 max-w-full" />
+            </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-3">DreamJapan</h3>
             <p className="text-gray-700">{t('dreamJapanDescDetail')}</p>
           </div>
 
           <div className="bg-gradient-to-br from-green-50 to-green-100 rounded-3xl p-8 hover:shadow-xl transition-all">
-            <div className="text-4xl mb-4">🇮🇹</div>
+            <div className="h-16 flex items-center mb-6">
+              <img src={`data:image/png;base64,${vitLogo}`} alt="VIT" className="max-h-14 max-w-full" />
+            </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-3">VIT Travel</h3>
             <p className="text-gray-700">{t('vitDesc')}</p>
           </div>
@@ -140,7 +149,7 @@ export function GsaCapabilitiesSection() {
   ]
 
   return (
-    <section className="py-24 bg-gradient-to-br from-gray-50 to-blue-50/30">
+    <section id="services" className="py-24 bg-gradient-to-br from-gray-50 to-blue-50/30">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-20">
           <span className="inline-block px-4 py-2 bg-blue-100 text-blue-700 rounded-full text-sm font-medium uppercase tracking-wide mb-6">
@@ -249,9 +258,8 @@ export function RegistrationSection() {
       <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         <div className="text-center mb-16">
           <h2 className="text-4xl lg:text-5xl font-light text-white mb-6 leading-tight">
-            {t('registrationTitle')}
+            {t('registrationTitle')} {t('registrationSubtitle')}
           </h2>
-          <p className="text-xl text-blue-100 mb-6">{t('registrationSubtitle')}</p>
           <p className="text-lg text-blue-50">{t('registrationDesc')}</p>
         </div>
 

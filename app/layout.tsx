@@ -7,10 +7,14 @@ import { LanguageProvider } from "@/hooks/useLanguage"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Ofo Connect - Your Trusted GSA Partner in Vietnam",
+  title: "OFO Connect - Strategic GSA Partner in Vietnam",
   description:
-    "Leading General Sales Agent (GSA) in Vietnam, connecting international travel brands with the local market through strategic partnerships and comprehensive services.",
-    generator: 'v0.app'
+    "OFO Connect is a strategic General Sales Agent and outbound sales partner in Vietnam for premium international travel brands.",
+  generator: "v0.app",
+  icons: {
+    icon: "/icon.svg",
+    apple: "/apple-icon.png",
+  },
 }
 
 export default function RootLayout({

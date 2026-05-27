@@ -190,7 +190,7 @@ export const translations = {
 
     // Registration Form
     registrationTitle: "Ready to Expand into Vietnam?",
-    registrationSubtitle: "Let's Connect",
+    registrationSubtitle: "Let's Connect.",
     registrationDesc: "Join leading travel brands who trust OFO Connect to power their Vietnam expansion.",
 
     // Cities
@@ -215,10 +215,9 @@ export const translations = {
     "cityDescriptions.amsterdam": "Canal rings • Cycling culture",
     "cityDescriptions.brussels": "European capital • Chocolate & waffles",
 
-    // Why Choose Us Section
-    whyChooseTitle: "Why Choose OFO Connect",
-    whyChooseSubtitle:
-      "We combine local market expertise with international standards to deliver exceptional results for our partners.",
+    // Legacy why choose labels
+    whyChooseTitle: "Ofo Connect Advantage",
+    whyChooseSubtitle: "Why partner with us",
     agencyNetworkTitle: "Extensive Agency Network",
     agencyNetworkDesc: "Access to over 500+ travel agencies across Vietnam, ensuring maximum market coverage.",
     b2bSalesTeam: "Dedicated B2B Sales Team",
@@ -275,10 +274,10 @@ export const translations = {
     contact: "Liên Hệ",
 
     // Hero Section
-    heroTagline: "Kết Nối Du Lịch, Toàn Cầu",
+    heroTagline: "OFO Strategic Ecosystem",
     heroSubtitle:
-      "Đại lý tổng chính thức tại Việt Nam cho các thương hiệu du lịch quốc tế. Chúng tôi xây dựng mạng lưới phân phối mạnh mẽ và đại diện cho các nhà điều hành tour toàn cầu tại địa phương.",
-    getInTouch: "Liên Hệ Ngay",
+      "Leveraging group synergy to deliver comprehensive, world-class travel distribution and destination management.",
+    getInTouch: "Partner With Us",
 
     // About Section
     aboutTitle: "Đối Tác Du Lịch Đáng Tin Cậy Của Bạn Tại Việt Nam",
@@ -462,7 +461,7 @@ export const translations = {
 
     // Registration Form
     registrationTitle: "Sẵn Sàng Mở Rộng Vào Việt Nam?",
-    registrationSubtitle: "Hãy Kết Nối",
+    registrationSubtitle: "Let's Connect.",
     registrationDesc: "Tham gia các thương hiệu du lịch hàng đầu tin tưởng OFO Connect để cung cấp năng lượng cho sự mở rộng Việt Nam của họ.",
 
     // Cities
@@ -487,10 +486,9 @@ export const translations = {
     "cityDescriptions.amsterdam": "Vòng kênh • Văn hóa đạp xe",
     "cityDescriptions.brussels": "Thủ đô châu Âu • Sô-cô-la & bánh waffle",
 
-    // Why Choose Us Section
-    whyChooseTitle: "Tại Sao Chọn OFO Connect",
-    whyChooseSubtitle:
-      "Chúng tôi kết hợp chuyên môn thị trường địa phương với tiêu chuẩn quốc tế để mang lại kết quả xuất sắc cho các đối tác.",
+    // Legacy why choose labels
+    whyChooseTitle: "Lợi Thế Ofo Connect",
+    whyChooseSubtitle: "Tại sao hợp tác với chúng tôi",
     agencyNetworkTitle: "Mạng Lưới Đại Lý Rộng Khắp",
     agencyNetworkDesc: "Tiếp cận hơn 500+ đại lý du lịch trên khắp Việt Nam, đảm bảo phủ sóng thị trường tối đa.",
     b2bSalesTeam: "Đội Ngũ Bán Hàng B2B Chuyên Nghiệp",
@@ -518,7 +516,7 @@ export const translations = {
     francePhone: "+33 6 43 52 38 72",
     japanOfficeTitle: "Nhật Bản",
     japanAddress: "#1002 Nakanosakaue Sunbright Twin, 2-46-1 Honcho, Nakano-ku, Tokyo 164-0012, Nhật Bản",
-    japanPhone: "+81 80 8442 5452",
+    japanPhone: "+81-3-6457-8980",
     businessLicense: "Giấy Phép Kinh Doanh",
     licenseNumber: "Số GP: 79-2019/TCDL-GP LHQT",
     licenseIssuer: "Do Tổng Cục Du Lịch Việt Nam cấp",
@@ -549,10 +547,10 @@ export const translations = {
     contact: "お問い合わせ",
 
     // Hero Section
-    heroTagline: "旅行をつなぐ、グローバルに",
+    heroTagline: "OFO Strategic Ecosystem",
     heroSubtitle:
-      "国際旅行ブランドのベトナム公式GSA。強力な流通ネットワークを構築し、グローバルツアーオペレーターを現地で代表します。",
-    getInTouch: "お問い合わせ",
+      "Leveraging group synergy to deliver comprehensive, world-class travel distribution and destination management.",
+    getInTouch: "Partner With Us",
 
     // About Section
     aboutTitle: "ベトナムにおける信頼できる旅行パートナー",
@@ -685,8 +683,8 @@ export const translations = {
     "cityDescriptions.brussels": "ヨーロッパの首都 • チョコレート＆ワッフル",
 
     // Why Choose Us Section
-    whyChooseTitle: "OFO Connectを選ぶ理由",
-    whyChooseSubtitle: "現地市場の専門知識と国際基準を組み合わせ、パートナーに優れた結果をお届けします。",
+    whyChooseTitle: "Ofo Connect Advantage",
+    whyChooseSubtitle: "Why partner with us",
     agencyNetworkTitle: "広範囲な代理店ネットワーク",
     agencyNetworkDesc: "ベトナム全土の500以上の旅行代理店へのアクセスで、最大限の市場カバレッジを確保。",
     b2bSalesTeam: "専任B2B営業チーム",
@@ -712,7 +710,7 @@ export const translations = {
     francePhone: "+33 6 43 52 38 72",
     japanOfficeTitle: "日本",
     japanAddress: "#1002 中野坂上サンブライトツイン, 2-46-1 本町, 中野区, 東京 164-0012, 日本",
-    japanPhone: "+81 80 8442 5452",
+    japanPhone: "+81-3-6457-8980",
     businessLicense: "事業ライセンス",
     licenseNumber: "ライセンス番号: 79-2019/TCDL-GP LHQT",
     licenseIssuer: "ベトナム国家観光局発行",
@@ -743,10 +741,10 @@ export const translations = {
     contact: "Contact",
 
     // Hero Section
-    heroTagline: "Connecter le Voyage, Globalement",
+    heroTagline: "OFO Strategic Ecosystem",
     heroSubtitle:
-      "GSA officiel au Vietnam pour les marques de voyage internationales. Nous construisons des réseaux de distribution solides et représentons les tour-opérateurs mondiaux localement.",
-    getInTouch: "Nous Contacter",
+      "Leveraging group synergy to deliver comprehensive, world-class travel distribution and destination management.",
+    getInTouch: "Partner With Us",
 
     // About Section
     aboutTitle: "Votre Partenaire de Voyage de Confiance au Vietnam",
@@ -893,9 +891,8 @@ export const translations = {
     "cityDescriptions.brussels": "Capitale européenne • Chocolat & gaufres",
 
     // Why Choose Us Section
-    whyChooseTitle: "Pourquoi Choisir OFO Connect",
-    whyChooseSubtitle:
-      "Nous combinons l'expertise du marché local avec les standards internationaux pour livrer des résultats exceptionnels à nos partenaires.",
+    whyChooseTitle: "Ofo Connect Advantage",
+    whyChooseSubtitle: "Why partner with us",
     agencyNetworkTitle: "Réseau d'Agences Étendu",
     agencyNetworkDesc:
       "Accès à plus de 500+ agences de voyage à travers le Vietnam, assurant une couverture maximale du marché.",
@@ -925,7 +922,7 @@ export const translations = {
     francePhone: "+33 6 43 52 38 72",
     japanOfficeTitle: "Japon",
     japanAddress: "#1002 Nakanosakaue Sunbright Twin, 2-46-1 Honcho, Nakano-ku, Tokyo 164-0012, Japon",
-    japanPhone: "+81 80 8442 5452",
+    japanPhone: "+81-3-6457-8980",
     businessLicense: "Licence Commerciale",
     licenseNumber: "N° de Licence: 79-2019/TCDL-GP LHQT",
     licenseIssuer: "Délivré par l'Administration Nationale du Tourisme du Vietnam",
