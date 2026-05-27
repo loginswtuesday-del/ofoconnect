@@ -7,10 +7,10 @@ export const translations = {
     contact: "Contact",
 
     // Hero Section
-    heroTagline: "Connecting Travel, Globally",
+    heroTagline: "OFO Strategic Ecosystem",
     heroSubtitle:
-      "Official GSA in Vietnam for international travel brands. We build strong distribution networks and represent global tour operators locally.",
-    getInTouch: "Get In Touch",
+      "Leveraging group synergy to deliver comprehensive, world-class travel distribution and destination management.",
+    getInTouch: "Partner With Us",
 
     // About Section
     aboutTitle: "Your Trusted Travel Partner in Vietnam",
@@ -120,6 +120,66 @@ export const translations = {
     vitTravelCountry: "Italy",
     visitWebsite: "Visit Website",
 
+    // OFO Connect Divisions
+    ofoConnect: "OFO Connect (GSA & Outbound Sales)",
+    ofoConnectDesc:
+      "Your dedicated General Sales Agent and local representative in Vietnam. We power the local market distribution for elite international brands like VIT, DreamJapan, and Kaytrip, focusing on premium and bespoke outbound travel sectors.",
+    ofoTravel: "OFO Travel (Inbound Destination Management)",
+    ofoTravelDesc:
+      "Dedicated exclusively to welcoming international tourists into Vietnam. OFO Travel operates strictly as a B2B Destination Management Company (DMC) for overseas markets, ensuring zero overlap with local domestic or outbound operations.",
+    ofoTourist: "OFO Tourist (Operational & Legal Backing)",
+    ofoTouristDesc:
+      "The rock-solid foundation of our group, providing the comprehensive operational expertise, extensive local network, and fully compliant legal backing that cements our market trust.",
+
+    // About Us Section
+    aboutUsTitle: "Who We Are",
+    aboutUsDesc:
+      "At Ofo Connect, we excel in outbound sales development and strategic local representation, specializing in premium, high-end, and bespoke travel sectors. As a specialized division within the OFO Strategic Ecosystem, we operate alongside OFO Travel—our group's dedicated Inbound division focused exclusively on luxury and tailor-made tourism for overseas markets.",
+    aboutUsDesc2:
+      "Backed by the robust operational expertise and full legal compliance of Ofo Tourist, we act as a trusted local extension for world-class international brands looking to establish a powerful, secure footprint in Vietnam.",
+    aboutUsDesc3:
+      "We don't just distribute; we elevate. Our strict non-compete B2B philosophy ensures that while we handle complex market onboarding and localized marketing execution for global giants, your data and networks remain 100% protected. This unique ecosystem synergy allows us to bring deep local insights and unparalleled operational precision to market leaders worldwide.",
+
+    // Portfolio Section
+    portfolioTitle: "Driven by Elite Global Partnerships",
+    portfolioSubtitle:
+      "We don't just build networks; we curate powerful alliances with market pioneers. Ofo Connect proudly represents and collaborates with world-class operators to dominate high-yield, premium segments.",
+    portfolioTagline: "We align with world-class operators to deliver unparalleled local distribution and market trust.",
+    kaytripDesc: "Europe's Leading Travel Network & Multi-Destination Operator.",
+    dreamJapanDescDetail: "Premier Destination Management & High-End Transport Specialists in Japan.",
+    vitDesc: "Pioneers in Luxury Tailor-Made & Bespoke Travel Concepts across Europe.",
+
+    // Our Role as GSA
+    gsaTitle: "Our Core Capabilities",
+    gsaSubtitle: "What we bring to international travel brands",
+    gsa1Title: "Official Representation",
+    gsa1Desc: "Act as your licensed, reputable local office and brand custodian in Vietnam.",
+    gsa2Title: "Premium Market Development",
+    gsa2Desc: "Proactive B2B sales strategies tailored specifically for high-end, luxury, and special interest travel segments.",
+    gsa3Title: "Bespoke Product Integration",
+    gsa3Desc: "Translating and adapting complex, tailor-made international travel products into successful local market offerings.",
+    gsa4Title: "Agent Training & Onboarding",
+    gsa4Desc: "Equipping the local travel trade with deep knowledge of your premium and high-end products.",
+    gsa5Title: "Localized Marketing & Activation",
+    gsa5Desc: "Tailored digital and offline campaigns to drive luxury brand awareness.",
+    gsa6Title: "Performance & Compliance Reporting",
+    gsa6Desc: "Transparent communication, data-driven revenue reporting, and solid legal backing through Ofo Tourist.",
+
+    // Why Choose Us Section - Updated
+    whyChooseTitle: "Ofo Connect Advantage",
+    whyChooseSubtitle: "Why partner with us",
+    whyChoose1: "Elite Quality Over Quantity",
+    whyChoose1Desc: "We focus on deep, impactful relationships with market leaders like Kaytrip and DreamJapan to guarantee top-tier execution.",
+    whyChoose2: "Unrivaled Destination Expertise",
+    whyChoose2Desc: "Featuring specialized product designers with deep, firsthand knowledge of the Japan and Europe luxury hospitality markets.",
+    whyChoose3: "Multilingual Operational Excellence",
+    whyChoose3Desc: "Fluency in English, Japanese, and Vietnamese to ensure flawless, 24/7 cross-border communication.",
+    whyChoose4: "Fully Licensed & Compliant",
+    whyChoose4Desc: "Solid corporate and legal backing from Ofo Tourist, providing absolute peace of mind for international compliance.",
+    whyChoose5: "Absolute B2B Integrity & Non-Compete",
+    whyChoose5Desc:
+      "We strictly separate our group divisions. Ofo Connect operates on a rigorous non-compete philosophy, ensuring that all local agent data, client leads, and market networks are 100% protected and isolated within our GSA ecosystem.",
+
     // Bus Tour Section
     busTourTitle: "European Bus Tour Map",
     busTourSubtitle:
@@ -127,6 +187,11 @@ export const translations = {
     exploreTour: "Explore This Tour",
     transferCity: "Transfer City",
     tourDuration: "14 Days",
+
+    // Registration Form
+    registrationTitle: "Ready to Expand into Vietnam?",
+    registrationSubtitle: "Let's Connect",
+    registrationDesc: "Join leading travel brands who trust OFO Connect to power their Vietnam expansion.",
 
     // Cities
     "cities.paris": "Paris",
@@ -179,7 +244,7 @@ export const translations = {
     francePhone: "+33 6 43 52 38 72",
     japanOfficeTitle: "Japan",
     japanAddress: "#1002 Nakanosakaue Sunbright Twin, 2-46-1 Honcho, Nakano-ku, Tokyo 164-0012, Japan",
-    japanPhone: "+81 80 8442 5452",
+    japanPhone: "+81-3-6457-8980",
     businessLicense: "Business License",
     licenseNumber: "License No: 79-2019/TCDL-GP LHQT",
     licenseIssuer: "Issued by Vietnam National Administration of Tourism",
@@ -327,6 +392,66 @@ export const translations = {
     vitTravelCountry: "Ý",
     visitWebsite: "Truy Cập Website",
 
+    // OFO Connect Divisions
+    ofoConnect: "OFO Connect (GSA & Bán Hàng Outbound)",
+    ofoConnectDesc:
+      "Đại lý Tổng chính thức và đại diện địa phương của bạn tại Việt Nam. Chúng tôi cung cấp dịch vụ phân phối thị trường địa phương cho các thương hiệu quốc tế hàng đầu như VIT, DreamJapan và Kaytrip, tập trung vào các lĩnh vực du lịch bespoke và cao cấp.",
+    ofoTravel: "OFO Travel (Quản Lý Điểm Đến Inbound)",
+    ofoTravelDesc:
+      "Dành riêng để chào đón du khách quốc tế vào Việt Nam. OFO Travel hoạt động hoàn toàn như một công ty Quản lý Điểm đến B2B (DMC) cho thị trường nước ngoài, đảm bảo không có sự chồng chéo với các hoạt động nội địa hoặc outbound địa phương.",
+    ofoTourist: "OFO Tourist (Hỗ Trợ Hoạt Động & Pháp Lý)",
+    ofoTouristDesc:
+      "Nền tảng vững chắc của nhóm chúng tôi, cung cấp chuyên môn hoạt động toàn diện, mạng lưới địa phương rộng khắp và hỗ trợ pháp lý tuân thủ đầy đủ mà làm cho lòng tin thị trường của chúng tôi cứng cáp.",
+
+    // About Us Section
+    aboutUsTitle: "Chúng Tôi Là Ai",
+    aboutUsDesc:
+      "Tại Ofo Connect, chúng tôi xuất sắc trong phát triển bán hàng outbound và đại diện chiến lược địa phương, chuyên môn hóa trong các lĩnh vực du lịch cao cấp, hạng nhất và bespoke. Là một bộ phận chuyên biệt trong Hệ thống Chiến lược OFO, chúng tôi hoạt động cùng OFO Travel—bộ phận Inbound chuyên dành của nhóm tập trung hoàn toàn vào du lịch sang trọng và bespoke cho thị trường nước ngoài.",
+    aboutUsDesc2:
+      "Được hỗ trợ bởi chuyên môm hoạt động mạnh mẽ và tuân thủ pháp lý đầy đủ của Ofo Tourist, chúng tôi hoạt động như một phần mở rộng đáng tin cậy địa phương cho các thương hiệu quốc tế hạng nhất tìm cách thiết lập chân dung mạnh mẽ và an toàn tại Việt Nam.",
+    aboutUsDesc3:
+      "Chúng tôi không chỉ phân phối; chúng tôi nâng cao. Triết lý B2B không cạnh tranh nghiêm ngặt của chúng tôi đảm bảo rằng trong khi chúng tôi xử lý onboarding thị trường phức tạp và thực hiện marketing địa phương cho các gã khổng lồ toàn cầu, dữ liệu và mạng lưới của bạn vẫn 100% được bảo vệ. Sự đồng bộ hệ thống sinh thái độc đáo này cho phép chúng tôi mang lại những hiểu biết sâu sắc địa phương và chính xác hoạt động không thể so sánh được cho các nhà lãnh đạo thị trường trên toàn cầu.",
+
+    // Portfolio Section
+    portfolioTitle: "Được Hỗ Trợ bởi Những Quan Hệ Đối Tác Toàn Cầu Hàng Đầu",
+    portfolioSubtitle:
+      "Chúng tôi không chỉ xây dựng mạng lưới; chúng tôi sắp xếp các liên minh mạnh mẽ với các công ty tiên phong thị trường. Ofo Connect tự hào đại diện và cộng tác với các nhà điều hành hạng nhất để thống trị các lĩnh vực cao lợi suất, cao cấp.",
+    portfolioTagline: "Chúng tôi liên kết với các nhà điều hành hạng nhất để cung cấp phân phối địa phương không thể sánh được và sự tin tưởng thị trường.",
+    kaytripDesc: "Mạng Lưới Du Lịch Hàng Đầu Châu Âu & Nhà Điều Hành Đa Điểm Đến.",
+    dreamJapanDescDetail: "Chuyên gia Quản Lý Điểm Đến Hạng Nhất & Vận Chuyển Cao Cấp tại Nhật Bản.",
+    vitDesc: "Những Người Tiên Phong trong Khái Niệm Du Lịch Bespoke & Tailor-Made Sang Trọng trên khắp Châu Âu.",
+
+    // Our Role as GSA
+    gsaTitle: "Khả Năng Cơ Bản Của Chúng Tôi",
+    gsaSubtitle: "Những gì chúng tôi mang lại cho các thương hiệu du lịch quốc tế",
+    gsa1Title: "Đại Diện Chính Thức",
+    gsa1Desc: "Hoạt động như văn phòng địa phương được cấp phép, đáng tin cậy và người bảo vệ thương hiệu tại Việt Nam.",
+    gsa2Title: "Phát Triển Thị Trường Cao Cấp",
+    gsa2Desc: "Các chiến lược bán hàng B2B chủ động được tùy chỉnh cụ thể cho các lĩnh vực du lịch cao cấp, hạng nhất và đặc biệt.",
+    gsa3Title: "Tích Hợp Sản Phẩm Bespoke",
+    gsa3Desc: "Dịch và điều chỉnh các sản phẩm du lịch quốc tế phức tạp, tailor-made thành những ngoại lệ thị trường địa phương thành công.",
+    gsa4Title: "Đào Tạo & Onboarding Đại Lý",
+    gsa4Desc: "Trang bị cho thương mại du lịch địa phương những kiến thức sâu sắc về các sản phẩm cao cấp và hạng nhất của bạn.",
+    gsa5Title: "Kích Hoạt Marketing & Địa Phương",
+    gsa5Desc: "Các chiến dịch kỹ thuật số và ngoại tuyến được tùy chỉnh để thúc đẩy nhận biết thương hiệu sang trọng.",
+    gsa6Title: "Báo Cáo Hiệu Suất & Tuân Thủ",
+    gsa6Desc: "Giao tiếp minh bạch, báo cáo doanh thu dữ liệu theo hướng dẫn và hỗ trợ pháp lý vững chắc thông qua Ofo Tourist.",
+
+    // Why Choose Us Section - Updated
+    whyChooseTitle: "Lợi Thế Ofo Connect",
+    whyChooseSubtitle: "Tại sao hợp tác với chúng tôi",
+    whyChoose1: "Chất Lượng Hàng Đầu Hơn Số Lượng",
+    whyChoose1Desc: "Chúng tôi tập trung vào các mối quan hệ sâu sắc, có tác động với các nhà lãnh đạo thị trường như Kaytrip và DreamJapan để đảm bảo thực hiện hạng nhất.",
+    whyChoose2: "Chuyên Môn Điểm Đến Không Thể So Sánh",
+    whyChoose2Desc: "Có các nhà thiết kế sản phẩm chuyên biệt với kiến thức sâu sắc, trực tiếp về các thị trường khách sạn xa xỉ Nhật Bản và Châu Âu.",
+    whyChoose3: "Sự Xuất Sắc Hoạt Động Đa Ngôn Ngữ",
+    whyChoose3Desc: "Thành thạo tiếng Anh, tiếng Nhật và tiếng Việt để đảm bảo giao tiếp liền mạch, suốt 24/7 và xuyên biên giới.",
+    whyChoose4: "Được Cấp Phép Đầy Đủ & Tuân Thủ",
+    whyChoose4Desc: "Hỗ trợ công ty và pháp lý vững chắc từ Ofo Tourist, cung cấp sự yên tâm tuyệt đối cho tuân thủ quốc tế.",
+    whyChoose5: "Toàn Vẹn B2B Tuyệt Đối & Không Cạnh Tranh",
+    whyChoose5Desc:
+      "Chúng tôi tách rời các bộ phận nhóm của mình một cách chặt chẽ. Ofo Connect hoạt động dựa trên triết lý không cạnh tranh nghiêm ngặt, đảm bảo rằng tất cả dữ liệu đại lý địa phương, khách hàng tiềm năng và mạng lưới thị trường được 100% bảo vệ và cách ly trong hệ thống sinh thái GSA của chúng tôi.",
+
     // Bus Tour Section
     busTourTitle: "Bản Đồ Tour Xe Buýt Châu Âu",
     busTourSubtitle:
@@ -334,6 +459,11 @@ export const translations = {
     exploreTour: "Khám Phá Tour Này",
     transferCity: "Thành Phố Trung Chuyển",
     tourDuration: "14 Ngày",
+
+    // Registration Form
+    registrationTitle: "Sẵn Sàng Mở Rộng Vào Việt Nam?",
+    registrationSubtitle: "Hãy Kết Nối",
+    registrationDesc: "Tham gia các thương hiệu du lịch hàng đầu tin tưởng OFO Connect để cung cấp năng lượng cho sự mở rộng Việt Nam của họ.",
 
     // Cities
     "cities.paris": "Paris",

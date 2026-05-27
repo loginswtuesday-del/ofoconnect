@@ -29,6 +29,14 @@ import { vitLogo } from "@/components/common/vit-travel"
 import { dreamJapanLogo } from "@/components/common/dream-japan-travel"
 import { kayTripLogo } from "@/components/common/ktrip-travel"
 import { EuropeanBusTourMap } from "@/components/european-bus-tour-map"
+import {
+  OfoEcosystemSection,
+  AboutUsSection,
+  PortfolioSection,
+  GsaCapabilitiesSection,
+  WhyChooseUsSection,
+  RegistrationSection,
+} from "@/components/ofo-ecosystem-sections"
 
 export default function OfoConnectWebsite() {
   const { t } = useLanguage()
@@ -119,6 +127,21 @@ export default function OfoConnectWebsite() {
           </div>
         </div>
       </section>
+
+      {/* OFO Ecosystem Section */}
+      <OfoEcosystemSection />
+
+      {/* About Us Section */}
+      <AboutUsSection />
+
+      {/* Portfolio Section */}
+      <PortfolioSection />
+
+      {/* GSA Capabilities Section */}
+      <GsaCapabilitiesSection />
+
+      {/* Why Choose Us Section */}
+      <WhyChooseUsSection />
 
       {/* Solutions Section - Journey Map */}
       <section className="py-24 bg-gradient-to-br from-slate-50 via-blue-50/30 to-indigo-50/50 relative overflow-hidden">
@@ -763,6 +786,9 @@ export default function OfoConnectWebsite() {
           </div>
         </div>
       </section>
+
+      {/* Registration Section */}
+      <RegistrationSection />
 
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-16">
